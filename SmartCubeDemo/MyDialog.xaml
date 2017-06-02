@@ -1,0 +1,15 @@
+﻿<Window x:Class="SmartCubeDemo.MyDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SmartCubeDemo"
+        mc:Ignorable="d"
+        Title="Save File Dialog" Height="127.958" Width="300" WindowStyle="ToolWindow" Topmost="True" WindowStartupLocation="CenterOwner">
+    <StackPanel Margin="10px">
+        <TextBlock Text="Enter file name" />
+        <TextBox x:Name="ResponseTextBox" />
+        <Button Content="OK" Click="OKButton_Click"  />
+    </StackPanel>
+</Window>
+

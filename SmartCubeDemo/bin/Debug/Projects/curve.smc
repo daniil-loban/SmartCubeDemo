@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<Settings>
+	<MapElements>
+		<Element Type="11" ImageIdx="2"/>
+		<Element Type="8" ImageIdx="1"/>
+		<Element Type="8" ImageIdx="1"/>
+		<Element Type="10" ImageIdx="1"/>
+		<Element Type="8" ImageIdx="0"/>
+		<Element Type="10" ImageIdx="2"/>
+		<Element Type="10" ImageIdx="3"/>
+		<Element Type="10" ImageIdx="0"/>
+		<Element Type="9" ImageIdx="0"/>
+		<Element Type="10" ImageIdx="2"/>
+		<Element Type="8" ImageIdx="0"/>
+		<Element Type="10" ImageIdx="1"/>
+		<Element Type="8" ImageIdx="1"/>
+		<Element Type="8" ImageIdx="1"/>
+		<Element Type="10" ImageIdx="0"/>
+		<Element Type="9" ImageIdx="0"/>
+		<Element Type="12" ImageIdx="0"/>
+	</MapElements>
+	<Map Height="4" Width="5">
+		<Cell X="0" Y="0" Data="NULL|" />
+		<Cell X="1" Y="0" Data="NULL|14|" />
+		<Cell X="2" Y="0" Data="NULL|13|" />
+		<Cell X="3" Y="0" Data="NULL|12|" />
+		<Cell X="4" Y="0" Data="NULL|11|" />
+		<Cell X="0" Y="1" Data="NULL|0|" />
+		<Cell X="1" Y="1" Data="NULL|1|15|" />
+		<Cell X="2" Y="1" Data="NULL|2|" />
+		<Cell X="3" Y="1" Data="NULL|3|" />
+		<Cell X="4" Y="1" Data="NULL|10|" />
+		<Cell X="0" Y="2" Data="NULL|" />
+		<Cell X="1" Y="2" Data="NULL|16|" />
+		<Cell X="2" Y="2" Data="NULL|7|" />
+		<Cell X="3" Y="2" Data="NULL|4|8|" />
+		<Cell X="4" Y="2" Data="NULL|9|" />
+		<Cell X="0" Y="3" Data="NULL|" />
+		<Cell X="1" Y="3" Data="NULL|" />
+		<Cell X="2" Y="3" Data="NULL|6|" />
+		<Cell X="3" Y="3" Data="NULL|5|" />
+		<Cell X="4" Y="3" Data="NULL|" />
+	</Map>
+	<Commands>
+		<List Data="S;F;F;R;F;R;R;R;F;L;F;L;F;F;L;F;E;" />
+	</Commands>
+</Settings>

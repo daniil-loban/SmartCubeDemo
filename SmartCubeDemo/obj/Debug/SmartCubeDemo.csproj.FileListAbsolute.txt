@@ -1,0 +1,15 @@
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\bin\Debug\SmartCubeDemo.exe.config
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\bin\Debug\SmartCubeDemo.exe
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\bin\Debug\SmartCubeDemo.pdb
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\App.g.cs
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\SmartCubeDemo_MarkupCompile.cache
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\SmartCubeDemo_MarkupCompile.lref
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\MainWindow.baml
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\SmartCubeDemo.g.resources
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\SmartCubeDemo.Properties.Resources.resources
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\SmartCubeDemo.csproj.GenerateResource.Cache
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\SmartCubeDemo.exe
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\SmartCubeDemo.pdb
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\MyDialog.g.cs
+C:\Users\Daniil\Desktop\SmartCubeDemo\SmartCubeDemo\SmartCubeDemo\obj\Debug\MyDialog.baml

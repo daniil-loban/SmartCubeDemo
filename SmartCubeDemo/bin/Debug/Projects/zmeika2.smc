@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<Settings>
+	<MapElements>
+		<Element Type="11" ImageIdx="2"/>
+		<Element Type="10" ImageIdx="1"/>
+		<Element Type="10" ImageIdx="3"/>
+		<Element Type="10" ImageIdx="2"/>
+		<Element Type="10" ImageIdx="0"/>
+		<Element Type="10" ImageIdx="1"/>
+		<Element Type="10" ImageIdx="3"/>
+		<Element Type="10" ImageIdx="2"/>
+		<Element Type="12" ImageIdx="3"/>
+	</MapElements>
+	<Map Height="2" Width="5">
+		<Cell X="0" Y="0" Data="NULL|0|" />
+		<Cell X="1" Y="0" Data="NULL|1|" />
+		<Cell X="2" Y="0" Data="NULL|4|" />
+		<Cell X="3" Y="0" Data="NULL|5|" />
+		<Cell X="4" Y="0" Data="NULL|8|" />
+		<Cell X="0" Y="1" Data="NULL|" />
+		<Cell X="1" Y="1" Data="NULL|2|" />
+		<Cell X="2" Y="1" Data="NULL|3|" />
+		<Cell X="3" Y="1" Data="NULL|6|" />
+		<Cell X="4" Y="1" Data="NULL|7|" />
+	</Map>
+	<Commands>
+		<List Data="S;R;L;L;R;R;L;L;E;" />
+	</Commands>
+</Settings>
